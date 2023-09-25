@@ -1,0 +1,12 @@
+{
+    "function_names": ["function_1", "function_2"],
+    "filepath":       ["function_code/code.zip","function_code/code.zip"],
+    "handler_name":   ["code.lambda_handler","code.lambda_handler"],
+    "runtime":        ["python3.10","python3.10"],
+    "timeout":        ["900","900"],
+    "memory_size":    ["128","128"],
+    "role_name":      ["lambdaRole_1","lambdaRole_2"],
+    "layer_filename": ["function_code/code.zip"],
+    "layer_name" :    ["common-lambda-layer_1"],
+    "compatible_runtimes" : ["python3.10"]
+}
