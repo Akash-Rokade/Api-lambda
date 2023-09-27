@@ -1,0 +1,11 @@
+
+{
+    "function2": {
+        "runtime":        "python3.10",
+        "handler_name":   "code.lambda_handler",
+      "timeout": 30,
+      "memory_size": 512,
+      "filepath":       "function_code/code.zip",
+      "role_name":      "lambdaRole_2"
+      }
+}
