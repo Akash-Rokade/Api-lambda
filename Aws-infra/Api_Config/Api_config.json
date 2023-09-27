@@ -1,7 +1,0 @@
-{
-    "Api_names": ["MyAPI_1", "MyAPI_2"],
-    "function_names": ["function_1", "function_2"],
-    "stage_name": ["sbx", "dev", "qa", "test", "prod"],
-    "apikey_name": ["apikey"],   
-    "api_key_required": ["true","true"]                            
-}    
