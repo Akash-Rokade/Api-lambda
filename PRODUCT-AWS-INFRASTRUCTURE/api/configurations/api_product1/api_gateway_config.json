@@ -1,0 +1,9 @@
+ 
+{
+    "my_api_1": {
+        "function_names": "function1",
+        "stage_name": ["sbx", "dev", "qa", "test", "prod"],
+        "apikey_name": "apikey",   
+        "api_key_required": "true"  
+      }
+}

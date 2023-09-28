@@ -1,0 +1,8 @@
+
+{
+    "lambda-layer": {
+        "layer_filename": "function_code/code.zip",
+        "layer_name" :    "common-lambda-layer_1",
+        "compatible_runtimes" : ["python3.10"]
+      }
+}
